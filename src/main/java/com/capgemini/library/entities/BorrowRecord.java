@@ -25,5 +25,5 @@ public class BorrowRecord {
 	private LocalDate borrowDate;
 	private LocalDate borrowReturnDate;
 	private Integer fine;
-	private boolean borrowStatus;
+	private String borrowStatus;
 }
